@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{54CF74B1-5092-4FA8-9C35-A2777B6062FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.EmployeeAdding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeAdding/Program.cs">
+    <Files>
+      <File FileName="EmployeeAdding/Program.cs" Line="15" Column="45" />
+      <File FileName="../ClassLibrary/Employee.cs" Line="5" Column="6" />
+      <File FileName="../ClassLibrary/Department.cs" Line="21" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeAdding" expanded="True">
+            <Node name="ClassLibrary" expanded="True" />
+            <Node name="EmployeeAdding" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
